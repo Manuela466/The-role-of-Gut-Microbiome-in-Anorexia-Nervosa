@@ -2,7 +2,7 @@
 Exploring the changes in the gut microbiome affects brain pathways related to appetite and behavior.
 
 ### Access the Presentation and Paper
--[View the Powerpoint Presentation](bioi605_group_project.pdf)
+- [View the Powerpoint Presentation](bioi605_group_project.pdf)
 - [View the Paper](The_Role_of_Gut_Microbiome_in_Anorexia_Nervosa.pdf)
 
 ---
